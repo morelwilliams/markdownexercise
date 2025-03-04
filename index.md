@@ -19,7 +19,10 @@ def format_list(items):
 shopping_list = ["Apples", "Bananas", "Cherries"]
 print(format_list(shopping_list))
 ```
-
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
